@@ -2,7 +2,7 @@
    font-family: "Lato", Sans-Serif;
  }
     .code {
-      color: rgb(0,0,77);
+      color: rgb(0,0,50);
     }
     .cycle-slideshow{
       max-width: 1000px;
@@ -86,12 +86,12 @@
       background: lightgrey;
     }
     ul>li>a:hover {
-      background: rgb(0, 0, 77);
+      background: rgb(0, 0, 50);
       color: #f8f9f9;
     }
     .active {
       color: black;
-      background: rgb(0, 0, 77);
+      background: rgb(0, 0, 50);
     }
     main {
       max-width: 85%;
@@ -106,7 +106,7 @@
       padding-top: 10%;
     }
     h3 {
-      color: rgb(0,0,77);
+      color: rgb(0,0,50);
       text-align: center;
       text-transform: uppercase;
       font-family: "Lobster";
@@ -149,7 +149,7 @@
         width: 100%;
         box-shadow: 5px 10px 10px rgba(0,0,0,0.4);
       }
-      /* second slideshy*/
+      /* second slideshow*/
      .slideshow2 {
 	 position: relative;
 	 height: 200px;
@@ -296,7 +296,7 @@
   color: black;
 }
 #training{
-  background-color: rgb(0,0,59);
+  background-color: rgb(0,0,50);
   color: #fefdf5;
 }
 #consultation{
